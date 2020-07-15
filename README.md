@@ -3,6 +3,7 @@ Proof of concept of a Java server/client application with Grpc
 
 # Execução
 Abrir a pasta do servidor e executar os seguintes comandos
+
 `mvn -DskipTests package exec:java -Dexec.mainClass=Main`
 
 Repetir os passos na pasta do cliente.
