@@ -9,7 +9,7 @@ public class Main {
      * greeting. The second argument is the target server.
      */
     public static void main(String[] args) throws Exception {
-        String user = "Jess";
+        String user = "Nobody";
         String target = "localhost:50051";
 
         // Create a communication channel to the server, known as a Channel. Channels are thread-safe
