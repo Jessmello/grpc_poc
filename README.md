@@ -1,4 +1,4 @@
-# grpc_poc
+# Grpc
 Proof of concept of a Java server/client application with Grpc
 
 # Execução
